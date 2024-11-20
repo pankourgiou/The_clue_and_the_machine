@@ -1,0 +1,3 @@
+# The_clue_and_the_machine
+#We all have this question...why is the machine slow...or how do we speak R....here..with the machine you can multitask OR NOT. So what the machine really does well is it can do 1 thing and do it perfect...What the machine does perfect is going slow...this means language talking must be slow....
+#what ever you do you must do it keeping in mind you must speak very very very slow...and that's it!
